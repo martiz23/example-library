@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ngx-custom-lib
+ */
+export * from './lib/utils/error-notification.util';
+export * from './lib/utils/index';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25neC1jdXN0b20tbGliL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxxQ0FBcUMsQ0FBQztBQUNwRCxjQUFjLG1CQUFtQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5neC1jdXN0b20tbGliXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvdXRpbHMvZXJyb3Itbm90aWZpY2F0aW9uLnV0aWwnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi91dGlscy9pbmRleCc7XHJcbiJdfQ==
